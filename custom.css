@@ -1,0 +1,44 @@
+/* custom.css */
+:root {
+    --theme-color: #262dff !important;
+}
+
+.cover {
+    background-image: linear-gradient(
+        98deg,
+        #26d3ff 0%,
+        #5ab6fb 20%,
+        #4873ff 40%,
+        #4362ff 80%,
+        #7214ff 100%
+    ) !important;
+    color: white;
+}
+
+.cover h1 {
+    font-size: 3em;
+    margin-bottom: 0.5em;
+}
+
+.cover img[alt="logo"] {
+    background-color: white !important;
+    padding: 10px !important;
+    border-radius: 10px !important;
+    /* filter: drop-shadow(2px 4px 2px rgb(255, 255, 255)); */
+    width: 200px;
+}
+
+.cover > p {
+    font-size: 1.5em;
+}
+
+.cover a span {
+    color: #fff;
+    font-weight: bold;
+}
+
+.cover p a {
+    background-color: #262dff !important;
+    border-color: #262dff !important;
+    color: white !important;
+}

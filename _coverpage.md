@@ -2,7 +2,7 @@
 
 # EasyQ Docs
 
-> Comprehensive Guide to Fractional Property Buying and Selling.
+> Complete Documentation of DEvelopment of QMS app.
 
     
 
